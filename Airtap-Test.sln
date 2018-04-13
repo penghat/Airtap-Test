@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airtap-Test", "Assembly-CSharp.csproj", "{C08798DB-D7E1-B350-822E-0089E3E134BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airtap-Test", "Assembly-CSharp-Editor.csproj", "{264CE209-8F18-F4DA-80AF-4625589B57CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08798DB-D7E1-B350-822E-0089E3E134BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08798DB-D7E1-B350-822E-0089E3E134BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08798DB-D7E1-B350-822E-0089E3E134BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08798DB-D7E1-B350-822E-0089E3E134BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264CE209-8F18-F4DA-80AF-4625589B57CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264CE209-8F18-F4DA-80AF-4625589B57CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264CE209-8F18-F4DA-80AF-4625589B57CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264CE209-8F18-F4DA-80AF-4625589B57CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
